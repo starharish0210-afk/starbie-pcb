@@ -14,7 +14,7 @@ Starbie is my version of the Half Life starter project. The board holds a XIAO E
 
 # Why I made it
 
-I wanted a small gadget that reacts to you and to the room around it, and I wanted to learn how to take a circuit from a schematic to a finished board. I made the board a star so it looks like a little pet toy rather than a bare circuit, and I covered it in silkscreen line art (koi fish, flowers, palm trees and fireworks) so the back looks as good as the front.
+I wanted a small gadget that reacts to you and to the room around it, and I wanted to learn how to take a circuit from a schematic to a finished board. I made the board a star so it looks like a little pet toy rather than a bare circuit, and I covered it in silkscreen line art (koi fish, flowers, palm trees and fireworks) so the back looks as good as the front. I didnt use the 3d models for this starbie so i removed them from github
 
 ## Bill of Materials (BOM)
 
