@@ -2,6 +2,20 @@
 A cute little desk buddy, to interact and helpful
 Your buddy will play with you, and make you happy
 
+# Starbie
+
+A tiny motion-controlled desk pet on a star-shaped PCB. A little creature wanders around a 128x64 OLED, and you play with it by pressing two key switches, tilting the board and shaking it. A temperature and humidity sensor shows the room's conditions on a stats screen.
+
+Starbie PCB, routed
+
+# What it is
+
+Starbie is my version of the Half Life starter project. The board holds a XIAO ESP32-C3 that runs the pet program, an OLED that shows it, an MPU6050 that senses tilt and shake, a DHT11 that measures temperature and humidity, and two Cherry MX-style key switches for input. The firmware is the single-file Arduino sketch from the Starbie guide (by SharKingStudios), and I changed two pin numbers for my wiring.
+
+# Why I made it
+
+I wanted a small gadget that reacts to you and to the room around it, and I wanted to learn how to take a circuit from a schematic to a finished board. I made the board a star so it looks like a little pet toy rather than a bare circuit, and I covered it in silkscreen line art (koi fish, flowers, palm trees and fireworks) so the back looks as good as the front.
+
 <img width="1920" height="1080" alt="Screenshot 2026-10-09 190814" src="https://github.com/user-attachments/assets/e311798e-5536-4281-b3bc-759cf8fed659" />
 <img width="753" height="656" alt="ss" src="https://github.com/user-attachments/assets/b0936e41-d814-4a69-a63e-8f6824c33dc3" />
 <img width="1920" height="1037" alt="Screenshot 2026-10-11 081902" src="https://github.com/user-attachments/assets/bc064d85-6a38-4c5f-b2d4-1717ff7ddd48" />
