@@ -16,6 +16,21 @@ Starbie is my version of the Half Life starter project. The board holds a XIAO E
 
 I wanted a small gadget that reacts to you and to the room around it, and I wanted to learn how to take a circuit from a schematic to a finished board. I made the board a star so it looks like a little pet toy rather than a bare circuit, and I covered it in silkscreen line art (koi fish, flowers, palm trees and fireworks) so the back looks as good as the front.
 
+## Bill of Materials (BOM)
+
+| Part | Quantity | Supplier | Unit Cost (USD) | Total Cost (USD) |
+|---|---:|---|---:|---:|
+| Custom Starbie PCB | 5 | JLCPCB | $1.87 | $9.35 |
+| Seeed XIAO ESP32-C3 | 1 | Seeed Studio | $15.86 | $15.86 |
+| SSD1306 0.96-inch OLED Display | 1 | Robocraze | $3.09 | $3.09 |
+| MX-Compatible Key Switches | 2 | SUNROM | $0.13 | $0.26 |
+| DHT11 Temperature and Humidity Module | 1 | ROBODUINO | $1.59 | $1.59 |
+| GY-521 MPU6050 Motion Sensor Module | 1 | Robocraze | $2.82 | $2.82 |
+| **Total** | | | | **$32.97** |
+
+*Prices are estimates in USD and may vary by supplier. Shipping is not included in the total.*
+
+
 <img width="1920" height="1080" alt="Screenshot 2026-10-09 190814" src="https://github.com/user-attachments/assets/e311798e-5536-4281-b3bc-759cf8fed659" />
 <img width="753" height="656" alt="ss" src="https://github.com/user-attachments/assets/b0936e41-d814-4a69-a63e-8f6824c33dc3" />
 <img width="1920" height="1037" alt="Screenshot 2026-10-11 081902" src="https://github.com/user-attachments/assets/bc064d85-6a38-4c5f-b2d4-1717ff7ddd48" />
